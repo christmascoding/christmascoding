@@ -12,17 +12,18 @@ I specialize in:
 - C++ (Games, Teeworlds, Arduino) development.
 - Linux / Webservers (This is one of my webservers)
 
-My printers:
+My Fleet of Printers
 
-- VZ Serial No. VZ.15 ChRICXY – My 100% custombuilt Ender 3 CoreXY
+- VZ Serial No. VZ.15 First ever 235x235x400 VzBot built (custombuilt)
 - VZ Serial No. VZ.14 My custom Triple Z, watercooled X5SA
-- (Soon) Vz.15 - VzPro, custombuilt VzBot mod.
+- VzPro 3D Printer (custombuilt)
 - XLTW3D Climber 7
-- TronXY XY-3SE
-- Prusa i3 MK3s – FYSETC Clone
-- QIDI imate-s
-- TronXY X5SA-600
+- FelixPrinter TEC4.1
+- Polaroid PlaySmart 3D Printer
+- JGMaker Artist-D
 - RatRig V-Core 3
+- Prusa i3 MK3s – FYSETC Clone
+- X5SA-600
 
 
 My Links:
