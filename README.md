@@ -30,5 +30,5 @@ My Links:
 
 - GitHub: https://github.com/christmascoding
 - Discord: ChRIstMas#6253
-- YouTube: https://www.youtube.com
-- Website: http://christmas3dp.com/ (
+- YouTube: https://www.youtube.com/channel/UC1PFWbyRJWEaerIeABnLbJw)
+- Website: https://polymas.eu
