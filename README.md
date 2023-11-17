@@ -22,6 +22,10 @@ My Fleet of Printers
 - Polaroid PlaySmart 3D Printer
 - JGMaker Artist-D
 - RatRig V-Core 3
+- CR6-SE
+- XY-2Pro
+- I3-MK3S
+- Qidi imate-S
 - Prusa i3 MK3s – FYSETC Clone
 - X5SA-600
 
