@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christmascoding
 
-I’m a young 3D printing and robotics enthusiast as well as an amateur developer.
+I’m a 19-year-old 3D printing and robotics enthusiast as well as an amateur developer.
 
 I specialize in:
 
@@ -20,19 +20,20 @@ My Fleet of Printers
 - XLTW3D Climber 7
 - FelixPrinter TEC4.1
 - Polaroid PlaySmart 3D Printer
-- JGMaker Artist-D
+- JGMaker Artist-D (sold)
 - RatRig V-Core 3
-- CR6-SE
-- XY-2Pro
+- 2x CR6-SE
+- XY-2Pro 
 - I3-MK3S
 - Qidi imate-S
 - Prusa i3 MK3s – FYSETC Clone
 - X5SA-600
+- Artillery Genius (given away)
 
 
 My Links:
 
 - GitHub: https://github.com/christmascoding
-- Discord: ChRIstMas#6253
+- Discord: @chris1mas
 - YouTube: https://www.youtube.com/channel/UC1PFWbyRJWEaerIeABnLbJw)
 - Website: https://polymas.eu
