@@ -22,6 +22,7 @@ My Fleet of Printers
 - Polaroid PlaySmart 3D Printer
 - JGMaker Artist-D (sold)
 - RatRig V-Core 3
+- BCN3D Sigma R14
 - 2x CR6-SE
 - XY-2Pro 
 - I3-MK3S
