@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @christmascoding
 
-I’m a 19-year-old 3D printing and robotics enthusiast as well as an amateur developer.
+I’m a 20-year-old 3D printing and robotics enthusiast as well as an amateur developer.
 
 I specialize in:
 
